@@ -1,0 +1,8 @@
+---------------------------------
+|         CurrentTimeServlet    |
+---------------------------------
+| + init(): void                |
+| + doGet(request: HttpServletRequest,  |
+|         response: HttpServletResponse): void|
+| + destroy(): void             |
+---------------------------------
